@@ -83,8 +83,8 @@ main {
     font-size: 15px;
     color: #1d1d1d;
     font-weight: 600;
-    transform: translateY(-5px);
-    margin-bottom: -18px;
+    transform: translateY(-15px);
+    margin-bottom: -7px;
 }
 #praw .sub{
     font-size: 12px;
