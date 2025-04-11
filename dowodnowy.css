@@ -84,13 +84,13 @@ main {
     color: #1d1d1d;
     font-weight: 600;
     transform: translateY(-15px);
-    margin-bottom: 20px;
+    margin-bottom: 17px;
 }
 #praw .sub{
     font-size: 12px;
     color: #4a4a4a;
     font-weight: 500;
-    transform: translateY(2px);
+    transform: translateY(-10px);
     margin-top: -8px;
 }
 #praw br{
