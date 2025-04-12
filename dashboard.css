@@ -185,7 +185,7 @@ header {
 }
 .id-card-bottom {
     position: absolute;
-    width: 288px;
+    width: 290px;
     height: 56px;
     left: 0px;
     bottom: 29px; /* wysokosc przyciskow */
@@ -201,6 +201,7 @@ header {
     font-size: 18px;
     font-weight: 600;
     letter-spacing: 0.2px;
+    transform: translateX(-10px);
 }
 
 
